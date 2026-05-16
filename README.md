@@ -7,11 +7,11 @@
 >- ML/DL & MFG
 
 ### 📫 $\ \Large \text{CONTACTS}$ ...
->- `TEL`: +1 917-518-4578  |  +86 18328053874
+>- `TEL`: +1 917-518-4578 | +86 18328053874
 >- `Email`: orange.ao2538@gmail | yao27@gsb.columbia.edu
 >- `LinkedIn`: www.linkedin.com/in/orange-ao
->- `YouTube`: www.youtube.com/@OrangeAo-sk7ge  |  `ID`: UChYNafxNMXVi0rjVHNCVeeQ
 >- `WeChat`: OrangeAYZ
+>- `Discord`: orangeaoo
 
 ### 😄 $\ \Large \text{FUN FACTS}$ ...
 >- An amateur marathoner (PR: 87 mins for a half-marathon).
