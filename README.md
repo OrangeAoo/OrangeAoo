@@ -2,7 +2,8 @@
 
 ### 👀 $\ \Large \text{MY FOCUS}$ ...
 
->- quant research & trading,
+>- quant research & trading
+>- crypto & prediction markets
 >- ML/DL & MFG
 
 ### 📫 $\ \Large \text{CONTACTS}$ ...
