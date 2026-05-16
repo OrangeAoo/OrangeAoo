@@ -2,7 +2,8 @@
 
 ### 👀 $\ \Large \text{MY FOCUS}$ ...
 
->I’m focused on quant finance & trading, ML/DL.
+>- quant research & trading,
+>- ML/DL & MFG
 
 ### 📫 $\ \Large \text{CONTACTS}$ ...
 >- `TEL`: +1 917-518-4578  |  +86 18328053874
